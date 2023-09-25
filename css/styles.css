@@ -1,15 +1,19 @@
-:root{
+:root{ 
+    --address-color: #434455;
     --header-logo-footer-color: #2E2F42;
     --backgroud-color: #F4F4FD;
     --h1-color: #fff;
-}
-.link{
-    text-decoration: none;
+    --span-color: #4D5AE5;
+    --button-shadow-color: rgba(0, 0, 0, 0. 15);
+
 }
 .list{
     list-style: none;
 }
-
-.text{
-    color: red;
+.link{
+    text-decoration: none;
 }
+/* HEADER SECTION  */
+ 
+ 
+/* END OF HEADER SECTION  */
