@@ -112,3 +112,37 @@ letter-spacing: 0.32px;
     cursor: pointer;
 }
 /* END OF HERO SECTION  */
+
+/* title section  */
+
+.title-text{
+    text-align: center;
+    color: var(--NAVYBLUE);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 2.5;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+    
+}
+
+/* .item-list{
+    display: flex;
+    justify-content: center;
+} */
+
+/* end of title section  */
+
+/* our team section  */
+
+.our-team-list{
+    text-align: center;
+    color: var(--NAVYBLUE);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 2.5;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+
+/* end of our team section  */
